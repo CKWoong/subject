@@ -4,5 +4,3 @@
 
 main 화면에서 숫자를 입력하고 클릭하면
 각 결과창으로 이동하도록 구현했습니다.
-
-http://localhost:8080/subject/main
